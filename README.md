@@ -7,4 +7,9 @@
 #definir Trigometria 2
 #definr Eco 3
 #definir B1A 8
-#definir 
+#definir B1B 9
+#definir A1A 10 
+#definir A1B 11
+
+iteriodistanciaD;
+intei

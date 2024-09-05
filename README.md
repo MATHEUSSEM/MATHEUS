@@ -12,4 +12,7 @@
 #definir A1B 11
 
 iteriodistanciaD;
-intei
+inteirodistanciaE;
+inteiropino de campainha =6;
+
+flutuadordistancia0bstàculo =6;

@@ -37,6 +37,4 @@ vazio configurar() {
  }
 
  vazio laço() {
-
-  
- 
+  serial

@@ -25,4 +25,18 @@ vazio configurar() {
  serial.começar(9600);
 
  servo.anexar(pinoServo);
+ //pinos da ponte H
+ modo pin(B1A, SAÍDA);
+ modo pin(B1B, SAÍDA);
+ modo pin(B1A, SAÍDA);
+ modo pin(B1B, SAÍDA);
+ modo pin(buzzerPin, SAÍDA);
+
+ servo.escrever(90);
+ //Radar();
+ }
+
+ vazio laço() {
+
+  
  
